@@ -1,0 +1,5 @@
+-*ADMIN LOGIN*-
+
+USERNAME - admin
+
+PASSWORD - 12345
